@@ -1,4 +1,4 @@
-A
+A - merge confict kariye
 B
 C
 D
