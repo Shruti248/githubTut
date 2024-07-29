@@ -13,3 +13,5 @@ L
 M
 N
 O -- issue close kairu by using fixes word & issue number (fixes #3)
+P
+Q
