@@ -12,4 +12,4 @@ K
 L
 M
 N
-O
+O -- issue close kairu by using fixes word & issue number (fixes #3)
